@@ -1,3 +1,8 @@
 Game/Library/
 Game/Logs/
 Game/Temp/
+Game/obj/
+Gamne/.vs
+Game/.vs/
+Game/Game.sln
+Game/Assembly-CSharp.csproj
